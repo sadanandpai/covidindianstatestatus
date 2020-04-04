@@ -11,6 +11,6 @@
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
-  "background_color": "#ffffff",
-  "home_page": "https://sadanandpai.github.io/covidindianstatestatus"
+  "background_color": "#ffffff"
+
 }
