@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.b95e2c89.chunk.css",
-    "main.js": "/static/js/main.902e50c4.chunk.js",
-    "main.js.map": "/static/js/main.902e50c4.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.66f8016c.js",
-    "runtime-main.js.map": "/static/js/runtime-main.66f8016c.js.map",
-    "static/css/2.5a510433.chunk.css": "/static/css/2.5a510433.chunk.css",
-    "static/js/2.9388af3a.chunk.js": "/static/js/2.9388af3a.chunk.js",
-    "static/js/2.9388af3a.chunk.js.map": "/static/js/2.9388af3a.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.07b39e48755477bb59771b38a592ccc1.js": "/precache-manifest.07b39e48755477bb59771b38a592ccc1.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.5a510433.chunk.css.map": "/static/css/2.5a510433.chunk.css.map",
-    "static/css/main.b95e2c89.chunk.css.map": "/static/css/main.b95e2c89.chunk.css.map",
-    "static/js/2.9388af3a.chunk.js.LICENSE.txt": "/static/js/2.9388af3a.chunk.js.LICENSE.txt"
+    "main.css": "/covidindianstatestatus/static/css/main.b95e2c89.chunk.css",
+    "main.js": "/covidindianstatestatus/static/js/main.a57c7e60.chunk.js",
+    "main.js.map": "/covidindianstatestatus/static/js/main.a57c7e60.chunk.js.map",
+    "runtime-main.js": "/covidindianstatestatus/static/js/runtime-main.c3d4b845.js",
+    "runtime-main.js.map": "/covidindianstatestatus/static/js/runtime-main.c3d4b845.js.map",
+    "static/css/2.5a510433.chunk.css": "/covidindianstatestatus/static/css/2.5a510433.chunk.css",
+    "static/js/2.9388af3a.chunk.js": "/covidindianstatestatus/static/js/2.9388af3a.chunk.js",
+    "static/js/2.9388af3a.chunk.js.map": "/covidindianstatestatus/static/js/2.9388af3a.chunk.js.map",
+    "index.html": "/covidindianstatestatus/index.html",
+    "precache-manifest.79075a031166602256bfa53ee211ef78.js": "/covidindianstatestatus/precache-manifest.79075a031166602256bfa53ee211ef78.js",
+    "service-worker.js": "/covidindianstatestatus/service-worker.js",
+    "static/css/2.5a510433.chunk.css.map": "/covidindianstatestatus/static/css/2.5a510433.chunk.css.map",
+    "static/css/main.b95e2c89.chunk.css.map": "/covidindianstatestatus/static/css/main.b95e2c89.chunk.css.map",
+    "static/js/2.9388af3a.chunk.js.LICENSE.txt": "/covidindianstatestatus/static/js/2.9388af3a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.66f8016c.js",
+    "static/js/runtime-main.c3d4b845.js",
     "static/css/2.5a510433.chunk.css",
     "static/js/2.9388af3a.chunk.js",
     "static/css/main.b95e2c89.chunk.css",
-    "static/js/main.902e50c4.chunk.js"
+    "static/js/main.a57c7e60.chunk.js"
   ]
 }
