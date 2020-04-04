@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dde59034165d06eeb1e8172b029b667a",
+    "revision": "7f1c898cf8e65bac88d0f96c4c3ff107",
     "url": "/covidindianstatestatus/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/covidindianstatestatus/static/css/2.5a510433.chunk.css"
   },
   {
-    "revision": "f3086657102215d92f2c",
-    "url": "/covidindianstatestatus/static/css/main.b95e2c89.chunk.css"
+    "revision": "17ae330199c639fe7c7f",
+    "url": "/covidindianstatestatus/static/css/main.06ef44ae.chunk.css"
   },
   {
     "revision": "a9e80d7e1f718626cfa5",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/covidindianstatestatus/static/js/2.9388af3a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f3086657102215d92f2c",
-    "url": "/covidindianstatestatus/static/js/main.a57c7e60.chunk.js"
+    "revision": "17ae330199c639fe7c7f",
+    "url": "/covidindianstatestatus/static/js/main.f480fb65.chunk.js"
   },
   {
     "revision": "e5a7ba0280b7b7737d0e",
